@@ -113,4 +113,4 @@ export const Navbar: React.FC<NavbarProps> = ({ onNavigate }) => {
   );
 };
 
-export default Navbar;
+export default Navbar
